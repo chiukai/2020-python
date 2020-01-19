@@ -1,12 +1,13 @@
-# 2020-python
+# 2020/1/18-1/19 北商micro bit研習營
 ## 永豐高中 邱研凱
 
 ### python 程式設計
 - p01.py
+ ```
 - p02.py
 - p03.py
 
-### micmibit 設計
+### micro bit 設計
 - m01.py
 - m02.py
 - m03.py
