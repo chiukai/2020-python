@@ -10,7 +10,7 @@ print(a)
 print(type(a))
 a=20
 print(a)
- ‵‵‵
+ ```
  
 - p02.py
 - p03.py
